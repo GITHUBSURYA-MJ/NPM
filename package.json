@@ -6,7 +6,7 @@
   "publishConfig": {
     "registry": "http://34.229.176.119:8081/repository/npm-repo/"
   },
- // "scripts": {
+  //"scripts": {
   //  "server": "http-server -c-1 -p 9999",
     //"start1": "nodemon app.js",
    // "start": "node app.js",
@@ -14,17 +14,17 @@
      //"sonar": "node sonar-project.js"
   //},
 
-  "dependencies": {
-    "cfenv": "^1.1.0",
-    "express": "^4.16.4"
-  },
+  //"dependencies": {
+  //  "cfenv": "^1.1.0",
+  //  "express": "^4.16.4"
+ // },
 //  /*"devDependencies": {
  //   "nodemon": "^1.18.9",
 //    "sonarqube-scanner": "^2.7.0"
 //  }, */
-  "engines": {
-    "node": "v10.6.0"
-  },
+//  "engines": {
+  //  "node": "v10.6.0"
+  //},
   //"repository": {
   //  "type": "git",
  //   "url": "https://github.com/MithunTechnologies/node-js-application"
