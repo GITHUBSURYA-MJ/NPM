@@ -22,9 +22,9 @@
  //   "nodemon": "^1.18.9",
 //    "sonarqube-scanner": "^2.7.0"
 //  }, */
-//  "engines": {
-  //  "node": "v10.6.0"
-  //},
+  "engines": {
+    "node": "v10.6.0"
+  },
   //"repository": {
   //  "type": "git",
  //   "url": "https://github.com/MithunTechnologies/node-js-application"
